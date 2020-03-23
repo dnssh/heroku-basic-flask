@@ -1,6 +1,6 @@
 Flask
 gunicorn
 requests
-beautifulsoup
+beautifulsoup4
 bs4
 tweepy
